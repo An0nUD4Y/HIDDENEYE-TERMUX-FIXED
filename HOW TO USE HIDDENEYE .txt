@@ -1,0 +1,102 @@
+---- STEPS TO LAUNCH AN ATTACK WITH HIDDENEYE TOOL.
+---- REMEMBER USING THIS TOOL FOR MALICIOUS PURPOSES CAN PUT YOU IN TROUBLE.
+---- THIS TOOL IS MADE ONLY FOR EDUCATIONAL PURPOSE.
+---- DEVELOPERS OF THIS TOOL WILL NOT BE RESPONSIBLE FOR ANY ILLEGAL USE OF THE TOOL.
+---- THIS TOOL IS MADE ONLY TO AWARE THE USERS ABOUT SUCH ATTACKS.
+
+[ ---- STEPS TO LAUNCH AN ATTACK WITH HIDDENEYE TOOL ---- ]
+
+
+
+A) STARTING WITH SCRIPT LAUNCH.
+
+- Just after being launched for the first time script will install NGROK , which is necessary to install.
+
+- After completing installation of NGROK.
+
+- Script will ask you about the responsibility of using the tool.
+- Just press ' y ' and hit Enter, if you are ready to follow those words. Unless press 'n' to exit .
+
+- Now the main menu of script should be launched.
+
+{ IT WILL BE BETTER IF YOU JUST ZOOM-OUT, YOU CAN ZOOM-IN/ ZOOM-OUT ANYTIME , WHENEVER YOU FIND UNABLE TO UNDERSTAND THE TEXT }
+
+
+- NOW You will get  MAIN MENU .
+
+- Here are many options to launch different-different phishing attacks.
+
+- JUST CHOOSE YOUR REQUIRED ONE.
+
+
+
+B) CHOOSING A ATTACK AND LAUNCHING IT.
+
+- In that main menu, Just choose your Attack. AND type its number and press ENTER.
+
+- Now it will ask to If you wants to add a Keylogger or Not.
+ 
+ {Keylogger is a advanced option, it will help you to get all the keys pressed by the user}
+ {Use it only when required , As the browsers can detect the keylogger in many case}
+ {SO USE BRAIN TO THINK IF IT SHOULD ADD OR NOT }
+ 
+- Just decide and  press y and hit enter to add keylogger , OR press n and hit Enter to remove it.
+
+- Now the script will ask you for choosing a redirect URL.
+  ( Redirect url are that url at which the victim will get redirected after submitting the login and password. )
+  ( Its always a wise decision to redirect the user to the original login page )
+  
+- Now the script will ask you for a choosing a port.
+- Just enter and desired port number 
+  Ex. 1234 or 4444 or 3232
+  whatever you want.
+  
+- Now script will ask you to select any availbale server to launch the attack worldwide.
+  
+  (I suggest you to choose serveo , as it also provides the cutomized url)
+- choose anyone and type its number and hit enter.
+- If you choosed NGROK , the attack will start and will give you a URL.
+- But if you choosed SERVEO, then the serveo will aks another option.
+- These options are about choosing RANDOM URL or CUSTOM URL.
+- Just type the corresponding number and hit Enter.
+- Now if you chosen the CUSTOM URL , Then You will be asked to enter a custom link.
+
+{ Remember one thing, creating a good belivable url is always good idea in such phishing attacks , But Serveo will not give you evry URL you Chosen , So choose wisely, Because serveo can detect your custom url as suspicious and will drop it }   
+
+- For example just type : 'login.live.microsoft' and it will give you a link like https://login.live.microsoft.serveo.net.
+
+- NOW THE SCRIPT WILL GIVE YOU THE LINK.
+- JUST SEND THIS LINK TO YOUR VICTIM.
+
+
+
+C) WHAT IF YOU GET ANY ERROR ??
+- Its pretty easy to find solution of any error occured in all the above process.
+- Just visit the below address which belongs to official repo of hiddeneye.
+  ( https://github.com/darksecdevelopers/hiddeneye/issues )
+- At this address just search for what error you got, or simply create a new issue out there if you did not find your solution.
+
+
+D) WHAT INFORMATION YOU WILL GET ABOUT THE VICTIM ?
+ 
+ You will get,
+ 
+- IP ADDRESS
+- LOCATION BASED ON IP ADDRESS
+- VICTIM DEVICE DETAILS 
+- VICTIM USER AGENT
+- VICTIM BROWSER
+- LOGIN CREDENTIALS
+- KEYSTROKES ( If you added keylogger )
+
+E) WHERE YOU WILL GET THESE DETAILS ?
+
+You will get all the details in the same terminal you used to launch the script.
+
+NOTE: DON'T CLOSE THAT TERMINAL, UNLESS THE LINK WILL DIE AND ATTACK WILL STOP AUTOMATICALLY.
+      ALSO JUST COPY/PASTE THE CAPTURED DATA IN SEPARATE A SAFE PLACE, AS YOU WILL LOOSE THESE DATA JUST AFTER CLOSING THE TERMINAL.
+      
+
+
+THANKS TO USE THE TOOL AND LEARNING HOW THIS FAMOUS PHISHING ATTACK WORKS... BE ON LEGAL SIDE...  USE IT AT YOUR OWN RISK..
+
